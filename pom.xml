@@ -47,14 +47,14 @@
     <dependency>
         <groupId>org.springframework.kafka</groupId>
         <artifactId>spring-kafka</artifactId>
-        <version>6.2.8</version>
+        <version>1.1.7</version>
     </dependency>
 
     <!-- OpenFeign -->
     <dependency>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-starter-openfeign</artifactId>
-        <version>4.2.3</version>
+        <version>4.2.95</version>
     </dependency>
 
     <!-- Jackson -->
@@ -68,7 +68,7 @@
     <dependency>
         <groupId>org.apache.commons</groupId>
         <artifactId>commons-lang3</artifactId>
-        <version>3.20.0</version>
+        <version>3.26.5</version>
     </dependency>
 
     <!-- Testing -->
